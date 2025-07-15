@@ -1,5 +1,4 @@
-# README: Survival Analysis Pipeline with Python
-
+# README: Survival Analysis 
 ## Overview
 
 This project implements a **survival analysis pipeline** for clinical data using Python. The workflow covers data loading, cleaning, Kaplan-Meier analysis, Cox proportional hazards regression, and Random Survival Forests (RSF), with automated plotting and reporting. The code is modular, well-commented, and outputs all results to a dedicated `plots` directory for easy review.
