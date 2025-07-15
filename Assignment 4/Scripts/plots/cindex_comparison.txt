@@ -1,0 +1,2 @@
+Random Survival Forest C-index: 0.6932
+Cox Regression C-index: 0.6231
